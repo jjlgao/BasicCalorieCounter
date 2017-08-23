@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fitness12</string>
+    <string-array name="exercise_array">
+        <item>Calories</item>
+        <item>Pushup</item>
+        <item>Situp</item>
+        <item>Jumping Jacks</item>
+        <item>Jogging</item>
+        <item>Squats</item>
+        <item>Leg-lift</item>
+        <item>Plank</item>
+        <item>Pullup</item>
+        <item>Cycling</item>
+        <item>Walking</item>
+        <item>Swimming</item>
+        <item>Stair-climbing</item>
+
+    </string-array>
+</resources>
